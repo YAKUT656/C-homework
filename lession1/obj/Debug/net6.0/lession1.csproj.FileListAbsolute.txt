@@ -1,0 +1,15 @@
+C:\Users\sanzh\Desktop\sanzharc#\lession1\obj\Debug\net6.0\lession1.csproj.AssemblyReference.cache
+C:\Users\sanzh\Desktop\sanzharc#\lession1\obj\Debug\net6.0\lession1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanzh\Desktop\sanzharc#\lession1\obj\Debug\net6.0\lession1.AssemblyInfoInputs.cache
+C:\Users\sanzh\Desktop\sanzharc#\lession1\obj\Debug\net6.0\lession1.AssemblyInfo.cs
+C:\Users\sanzh\Desktop\sanzharc#\lession1\obj\Debug\net6.0\lession1.csproj.CoreCompileInputs.cache
+C:\Users\sanzh\Desktop\sanzharc#\lession1\bin\Debug\net6.0\lession1.exe
+C:\Users\sanzh\Desktop\sanzharc#\lession1\bin\Debug\net6.0\lession1.deps.json
+C:\Users\sanzh\Desktop\sanzharc#\lession1\bin\Debug\net6.0\lession1.runtimeconfig.json
+C:\Users\sanzh\Desktop\sanzharc#\lession1\bin\Debug\net6.0\lession1.dll
+C:\Users\sanzh\Desktop\sanzharc#\lession1\bin\Debug\net6.0\lession1.pdb
+C:\Users\sanzh\Desktop\sanzharc#\lession1\obj\Debug\net6.0\lession1.dll
+C:\Users\sanzh\Desktop\sanzharc#\lession1\obj\Debug\net6.0\refint\lession1.dll
+C:\Users\sanzh\Desktop\sanzharc#\lession1\obj\Debug\net6.0\lession1.pdb
+C:\Users\sanzh\Desktop\sanzharc#\lession1\obj\Debug\net6.0\lession1.genruntimeconfig.cache
+C:\Users\sanzh\Desktop\sanzharc#\lession1\obj\Debug\net6.0\ref\lession1.dll
