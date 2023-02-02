@@ -1,0 +1,15 @@
+C:\Users\GS-5\Desktop\sanzharc#\homework#15\bin\Debug\net6.0\homework#15.exe
+C:\Users\GS-5\Desktop\sanzharc#\homework#15\bin\Debug\net6.0\homework#15.deps.json
+C:\Users\GS-5\Desktop\sanzharc#\homework#15\bin\Debug\net6.0\homework#15.runtimeconfig.json
+C:\Users\GS-5\Desktop\sanzharc#\homework#15\bin\Debug\net6.0\homework#15.dll
+C:\Users\GS-5\Desktop\sanzharc#\homework#15\bin\Debug\net6.0\homework#15.pdb
+C:\Users\GS-5\Desktop\sanzharc#\homework#15\obj\Debug\net6.0\homework#15.csproj.AssemblyReference.cache
+C:\Users\GS-5\Desktop\sanzharc#\homework#15\obj\Debug\net6.0\homework#15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GS-5\Desktop\sanzharc#\homework#15\obj\Debug\net6.0\homework#15.AssemblyInfoInputs.cache
+C:\Users\GS-5\Desktop\sanzharc#\homework#15\obj\Debug\net6.0\homework#15.AssemblyInfo.cs
+C:\Users\GS-5\Desktop\sanzharc#\homework#15\obj\Debug\net6.0\homework#15.csproj.CoreCompileInputs.cache
+C:\Users\GS-5\Desktop\sanzharc#\homework#15\obj\Debug\net6.0\homework#15.dll
+C:\Users\GS-5\Desktop\sanzharc#\homework#15\obj\Debug\net6.0\refint\homework#15.dll
+C:\Users\GS-5\Desktop\sanzharc#\homework#15\obj\Debug\net6.0\homework#15.pdb
+C:\Users\GS-5\Desktop\sanzharc#\homework#15\obj\Debug\net6.0\homework#15.genruntimeconfig.cache
+C:\Users\GS-5\Desktop\sanzharc#\homework#15\obj\Debug\net6.0\ref\homework#15.dll
